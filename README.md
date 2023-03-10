@@ -16,7 +16,7 @@ Beware - the source code is perhaps more horrifying than the game itself!
 ## Linux/Unix/macOS
 
 NOTE: versions of macOS later than catalina will not work due to 32 bit compatibillity 
-having been removed.
+having been removed
 
 In order to compile for unix like systems you will need to run Blitz3D through wine
 and modify the Makefile CC variable to point to your install of the Blitz3D compiler 
