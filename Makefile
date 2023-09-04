@@ -1,5 +1,5 @@
 BIN=scpcb.exe
-CC=/home/nova/.wine/drive_c/Program\ Files\ \(x86\)/Blitz3D/bin/blitzcc.exe
+CC=~/.wine/drive_c/Blitz3D/bin/blitzcc.exe
 DIRS=GFX/ SFX/ Data/ 'Map Creator'/ Loadingscreens/
 
 main: Main.bb LightMapPNG.exe Converter.exe
